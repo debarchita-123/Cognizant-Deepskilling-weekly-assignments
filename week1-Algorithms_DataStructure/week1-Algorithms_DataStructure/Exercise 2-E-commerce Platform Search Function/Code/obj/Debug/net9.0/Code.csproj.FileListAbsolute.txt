@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\bin\Debug\net9.0\Code.exe
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\bin\Debug\net9.0\Code.deps.json
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\bin\Debug\net9.0\Code.runtimeconfig.json
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\bin\Debug\net9.0\Code.dll
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\bin\Debug\net9.0\Code.pdb
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\obj\Debug\net9.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\obj\Debug\net9.0\Code.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\obj\Debug\net9.0\Code.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\obj\Debug\net9.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\obj\Debug\net9.0\Code.dll
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\obj\Debug\net9.0\refint\Code.dll
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\obj\Debug\net9.0\Code.pdb
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\obj\Debug\net9.0\Code.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\week1-Algorithms_DataStructure\Exercise 2-E-commerce Platform Search Function\Code\obj\Debug\net9.0\ref\Code.dll
