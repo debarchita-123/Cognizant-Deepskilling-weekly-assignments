@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.st2, .mystyle1, .v1 {
+  flex: 1;
+  margin: 20px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  border-right: 5px solid green;
+  box-sizing: border-box;
+}
+
+/* Remove the right border from the last item to avoid extra line */
+.v1 {
+  border-right: none;
+}
